@@ -1,4 +1,4 @@
-# oxford-english-spelling
+# Oxford English Dictionary
 The dictionary files for the [Oxford English spelling](https://en.wikipedia.org/wiki/Oxford_spelling) available in the Chromium source.
 
 ## Source
